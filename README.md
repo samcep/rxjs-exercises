@@ -2,6 +2,11 @@
 
 Welcome to my RxJS exercises playground!  
 This project explores powerful **RxJS operators** like `switchMap`, `concatMap`, `mergeMap`, and `exhaustMap` — using real API data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
+---
+
+## 🌐 Live Demo
+
+▶️ **Try it now**: [https://iridescent-blini-f623c0.netlify.app/](https://iridescent-blini-f623c0.netlify.app/)
 
 ---
 
@@ -15,7 +20,7 @@ This project explores powerful **RxJS operators** like `switchMap`, `concatMap`,
 | ⚡️ Parallel Fetch | Use `mergeMap` to fetch multiple user posts in parallel |
 
 ---
-
+   
 ## 🔧 Tech Stack
 
 - 🧠 **RxJS**
